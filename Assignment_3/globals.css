@@ -11,6 +11,7 @@
 .screen a {
   display: contents;
   text-decoration: none;
+  color: inherit;
 }
 
 .container-center-horizontal {
